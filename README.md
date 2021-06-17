@@ -1,4 +1,4 @@
-# CS1101
+# CS 1101: Intro to Programming
 ECE CS 1101 Weekly Assignments:\
 0: Expressions & Functions\
 1: Warmup & Traffic Signal\
